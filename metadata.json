@@ -1,0 +1,6 @@
+{
+  "name": "Luna AI",
+  "description": "Luna AI is a premium, beautifully styled creative workspace powered by Gemini, featuring intelligent task decomposition, dynamic AI persona chat, and a local Room database to manage workspaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
